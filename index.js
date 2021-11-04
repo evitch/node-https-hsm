@@ -1,6 +1,6 @@
 const forge = require('./node-forge')
 const http = require('./node-forge/http')
-const net = require('net')
+const net = require('react-native-tcp-socket')
 
 const response = http.createResponse()
 

@@ -14,7 +14,7 @@
     "url": "https://github.com/githoniel/node-https-hsm"
   },
   "dependencies": {
-    
+    "react-native-tcp-socket": "^5.5.0"
   },
   "devDependencies": {
     "axios": "^0.18.0",
